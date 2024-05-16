@@ -90,8 +90,12 @@ h2 {
     box-sizing: border-box;
 }
 
-.testimonios {
+.servicios {
     width: 25%;
+}
+
+.servicios img {
+    padding-top: 20px;
 }
 
 .columnas {
@@ -103,27 +107,9 @@ h2 {
     font-size: 20px;
 }
 
-.testimonio {
-    background-color: #ccc;
-    padding: 16px;
+.homedown {
+    padding-top: 20px;
 }
-
-.testimonio .cita {
-    font-weight: bold;
-    font-style: italic;
-    font-size: 22px;
-    background-color: #FFDE59;
-    display: block;
-}
-
-.testimonio .autor {
-    font-size: 10px;
-    text-align: center;
-    background-color: #FFDE59;
-    display: block;
-    margin: 12px 0;
-}
-
 /* Fin del Home */
 
 /* Empieza Sobre Nosotros */
