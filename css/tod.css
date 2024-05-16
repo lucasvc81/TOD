@@ -10,16 +10,20 @@ body {
 }
 
 header {
-    background-color: #FFDE59;
+    background-color: #F4ECE0;
     padding: 16px 0;
     /* position: sticky;
     top: 0; */
 }
 
+header .holder {
+
+}
+
 footer {
-    background-color: #ccc;
+    background-color: #d2d2d2;
     clear: both;
-    color: #333;
+    color: grey;
     text-align: center;
     padding: 5px 0;
     margin: 20px;
@@ -29,6 +33,7 @@ header h1 {
     color: black;
     font-size: 40px;
     font-weight: 3000;
+    font-family: Verdana;
     font-style: italic;
     display: inline-block;
     position: relative;
@@ -37,7 +42,7 @@ header h1 {
 }
 
 nav {
-    background-color: #FFF4BA;
+    background-color: #F4ECE0;
     position: sticky;
     top: 0;
 }
@@ -62,11 +67,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #FFDE59;
+    background-color: #F4ECE0;
 }
 
 nav ul li a.activo {
-    background-color: #FFDE59;
+    background-color: #f4dcb9;
 }
 
 .holder {
